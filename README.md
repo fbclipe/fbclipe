@@ -56,15 +56,6 @@ Currently, I am focused on:
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=fbclipe&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌎 Contact
 
 <p align="center">
