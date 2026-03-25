@@ -1,28 +1,31 @@
-<h1 align="center">👋 Olá, eu sou Felipe Barros</h1>
+<h1 align="center">👋 Hi, I'm Felipe Barros</h1>
 
 <p align="center">
-  💻 Estudante de Ciência da Computação <br>
-  ⚙️ Focado em desenvolvimento Backend e Engenharia de Software <br>
-  🚀 Interessado na construção de sistemas escaláveis e produtos digitais
+  🚀 Backend-focused developer building scalable systems, automation workflows, and data-driven solutions <br>
+  💻 Computer Science Student | 5th Semester <br>
+  📍 Brazil
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Sou estudante de Ciência da Computação no 5º período, com foco no desenvolvimento de aplicações robustas e bem estruturadas.  
-Tenho interesse especial em backend, arquitetura de sistemas e integração de serviços, buscando sempre aplicar boas práticas de desenvolvimento e escrever código limpo e eficiente.
+I'm a Computer Science student currently in my 5th semester, focused on building real-world backend systems and data-driven solutions.
 
-Atualmente, venho aprofundando meus conhecimentos em:
-- 🔹 Desenvolvimento de APIs e sistemas backend
-- 🔹 Estruturação e modelagem de bancos de dados
-- 🔹 Frameworks modernos e boas práticas de engenharia de software
-- 🔹 Construção de projetos com foco em escalabilidade
-- 🔹 Desenvolvimento de Agentes de IA
+I have hands-on experience developing APIs, automating workflows, and working with structured data, always aiming to create scalable, efficient, and maintainable systems.
+
+My main interests include backend engineering, system design, and process automation — especially applying technology to solve practical problems and build digital products.
+
+Currently, I am focused on:
+- 🔹 Designing and developing RESTful APIs and backend services  
+- 🔹 Database modeling and performance optimization (PostgreSQL)  
+- 🔹 Building automation workflows and integrations using n8n  
+- 🔹 Developing AI-powered solutions and intelligent agents  
+- 🔹 Creating projects with real-world application and product mindset  
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tech Stack
 
 <p align="center">
 
@@ -36,11 +39,13 @@ Atualmente, venho aprofundando meus conhecimentos em:
 <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
 
+<img src="https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n"/>
+
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170em" 
@@ -51,7 +56,16 @@ Atualmente, venho aprofundando meus conhecimentos em:
 
 ---
 
-## 🌎 Contato
+## 🔥 Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=fbclipe&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌎 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-barros-de-carvalho/">
